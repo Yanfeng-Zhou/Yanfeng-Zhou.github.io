@@ -26,8 +26,8 @@ redirect_from:
 <p align="center"><img src="https://github.com/Yanfeng-Zhou/Yanfeng-Zhou/blob/main/731290e70ede6d84042ef173fb53656d.gif" width="20%" ></p>
 
 # News
-- [2025.06]: Congratulations to Yanfeng on the completion of his doctoral degree!
-- [2025.05]: One paper is accepted by TMI. Congratulations to Yanfeng!
+- `[`2025.06`]`: Congratulations to Yanfeng on the completion of his doctoral degree!
+- `[`2025.05`]`: One paper is accepted by TMI. Congratulations to Yanfeng!
 - [2025.02]: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
 # Research Interests
