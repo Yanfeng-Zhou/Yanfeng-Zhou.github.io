@@ -38,13 +38,13 @@ redirect_from:
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
 # Research Interests
-Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
+计算机视觉与生物医学影像分析
 
 # Experience
 
-- Jun. 2025 – Present **助理教授**, 深圳大学人工智能学院
-- Sep. 2020 – Jun. 2025 **博士**, 中国科学院大学人工智能学院&中国科学院自动化研究所
-- Sep. 2016 – Jun. 2020 **学士**, 东北大学信息科学与工程学院
+- 2025.06 – 今 **助理教授**, 深圳大学人工智能学院
+- 2020.09 – 2025.06 **博士**, 中国科学院大学人工智能学院&中国科学院自动化研究所
+- 2016.09 – 2020.06 **学士**, 东北大学信息科学与工程学院
 
 # Fundings
 
