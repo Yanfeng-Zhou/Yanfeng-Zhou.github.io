@@ -42,9 +42,9 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 
 # Experience
 
-- Jun. 2025 – Present **Assistant Professor**, School of Artificial Intelligence, Shenzhen University
-- Sep. 2020 – Jun. 2025 **Doctor of Philosophy**, School of Artificial Intelligence, University of Chinese Academy of Sciences & Institute of Automation, Chinese Academy of Sciences
-- Sep. 2016 – Jun. 2020 **Bachelor of Engineering**, School of Information Science and Engineering, Northeastern University
+- Jun. 2025 – Present **助理教授**, 深圳大学人工智能学院
+- Sep. 2020 – Jun. 2025 **博士**, 中国科学院大学人工智能学院&中国科学院自动化研究所
+- Sep. 2016 – Jun. 2020 **学士**, 东北大学信息科学与工程学院
 
 # Fundings
 
@@ -68,7 +68,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 - **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已公开**）
 
 # Students
-- ⭐⭐⭐ **Actively looking for students:**（✉️<span style="color:blue">zhouyanfeng2020@ia.ac.cn</span>）
+- ⭐⭐⭐ **积极地寻找学生:**（✉️<span style="color:blue">zhouyanfeng2020@ia.ac.cn</span>）
 **招生要求：**
 	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
 	- 对计算机视觉和生物医学影像分析感兴趣
@@ -87,20 +87,20 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
   <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/Getonboardquickly.png" alt="Get on board quickly" style="width:20%;">
 </p>
 
-- **Supervised Master Students:**
-  > Yangyang (Master 2024)
+- **在读学生:**
+  > 杨洋（2024级硕士）
 
-  > Jingxian (Master 2024)
+  > 靖娴（2024级硕士）
 
-  > Xinting (Master 2025)
+  > 心婷（2025级硕士）
 
-  > Jianfeng (Master 2025)
+  > 建峰（2025级硕士）
 
-  > Zhiyu (Master 2025)
+  > 知羽（2025级硕士）
 
-  > Shunan (Master 2025)
+  > 书南（2025级硕士）
 
-  > Zhoaxue (Intern)
+  > 兆雪（实习生）
 	
 
 # Academic Activities
@@ -109,9 +109,9 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 - Program Committee Members of BIBM2024
 
 # Awards
-- Dean Scholarship of University of Chinese Academy of Sciences, 2025
-- Wang Shouwu Scholarship of University of Chinese Academy of Sciences, 2025
-- Dai Ruwei Second Prize Scholarship of University of Chinese Academy of Sciences, 2024
-- Outstanding Graduate of Liaoning Province, 2020
-- National Scholarship, 2019
-- National Scholarship, 2018
+- 中国科学院大学院长奖, 2025
+- 中国科学院大学王守武奖学金（优秀奖）, 2025
+- 中国科学院大学戴汝为二等奖学金, 2024
+- 辽宁省优秀毕业生, 2020
+- 国家奖学金, 2019
+- 国家奖学金, 2018
