@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">中文主页</span>](/)
 
-周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文15篇，第一作者10篇。累计申请国家发明专利5项，授权专利4项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
+Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. 于2025年在中国科学院大学获得博士学位。His research interests is computer vision and biomedical image analysis. 累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文15篇，第一作者10篇。累计申请国家发明专利5项，授权专利4项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
 
 ⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
