@@ -69,7 +69,8 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 
 # Students
 - ⭐⭐⭐ **Actively looking for students:**（✉️<span style="color:blue">zhouyanfeng2020@ia.ac.cn</span>）
-**招生要求：**
+
+  	**招生要求：**
 	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
 	- 对计算机视觉和生物医学影像分析感兴趣
 	- 具备良好的英文写作和阅读能力
