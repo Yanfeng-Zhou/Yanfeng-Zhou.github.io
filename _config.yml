@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yanfeng Zhou"
-  avatar           : "images/35x45mm.jpg"
+  avatar           : "/images/35x45mm.jpg"
   bio              : "Shenzhen University"
   location         : "Shenzhen, China"
   employer         :
