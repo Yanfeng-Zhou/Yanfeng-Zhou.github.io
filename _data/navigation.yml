@@ -7,13 +7,13 @@ main:
     url: "/#news"
 
   - title: "Research Interests"
-    url: "/#Research-Interests"
+    url: "/#research-interests"
 
   - title: "Experience"
-    url: "/#Experience"
+    url: "/#experience"
 
   - title: "Fundings"
-    url: "/#Fundings"
+    url: "/#fundings"
 
   - title: "Publications"
     url: "/#publications"
