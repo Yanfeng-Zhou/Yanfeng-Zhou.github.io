@@ -19,7 +19,7 @@ redirect_from:
 
 周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文15篇，第一作者10篇。累计申请国家发明专利5项，授权专利4项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
 
-:star::star::star:我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
+⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
 此外，我们实验室课题组组长[倪东](https://bdsc.szu.edu.cn/teachers/graduate/33e63142-7b2f-4109-a38d-9d03bd6ee762)正在积极地寻找[实习生、硕士、博士和博士后](https://mp.weixin.qq.com/s?__biz=MzkyMjM4NzI5NQ==&mid=2247507562&idx=1&sn=660753ea70474b6f2b5094f30a9ac88d&chksm=c01c3dd157a72714db20cd71a2d1e47daf38a6530506f46d50875f0fc22ec1b21fcf8c85d9ce&sessionid=1747875280&scene=126&clicktime=1747887726&enterid=1747887726&subscene=10000&ascene=3&fasttmpl_type=0&fasttmpl_fullversion=7742223-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747887726633&devicetype=android-33&version=28003a3e&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_b537f70e38ab&countrycode=CN&exportkey=n_ChQIAhIQCLTRib%2Bl9Y%2BEhlvQKr9oLBLxAQIE97dBBAEAAAAAAGmpC4QnCFAAAAAOpnltbLcz9gKNyK89dVj03N7akA8H3iccNXns1HG5ysyeC6Mf6RTp6CoPKCNnLzjmzn7dBGuUgm%2Bcuazy7ztdwUFdXRG%2FSodRDp%2B9jSvzUpspvMy35meQqTy3uC0exwr1c7JW9QmVJ3uIJJFOMqDOATh%2Bi%2BdXBvZDGNlmJwOP9ixXnIUN%2FfVzP42isjIvFB6REHUFuyC%2F2bST0f1LNSMDiKKTVwtHNjsD8ujRHt3A2ywbQ9o6nLiK52KAbeqt4wbH549eaxiRLc0qqXJna9Wv6CcIeBuwOBS1k9Y%3D&pass_ticket=mfmpNw4NnIiu6hs7IIRKJOnaamOtYCtLGfx8fmn3S5ika7ENYwWGVjf3AnkKMUuv&wx_header=3)，也正在积极地招聘[教师](https://mp.weixin.qq.com/s?__biz=MzkyMjM4NzI5NQ==&mid=2247507558&idx=1&sn=ff5c2cd993a4d75bca64ac21c156ab1f&chksm=c065bc2f95246049e93507d6d5f21b8818183e6de60537e126e2471ba48fff9f682115bdaa3c&sessionid=1747875280&scene=126&clicktime=1747887889&enterid=1747887889&subscene=10000&ascene=3&fasttmpl_type=0&fasttmpl_fullversion=7742223-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747887889812&devicetype=android-33&version=28003a3e&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_b537f70e38ab&countrycode=CN&exportkey=n_ChQIAhIQ9ktqzXi6RNV40bu%2Bbk22xxLxAQIE97dBBAEAAAAAAKl5Gf%2BD5HEAAAAOpnltbLcz9gKNyK89dVj02JD3%2FFxunifWx3CVJLxiRvZ5BVYOUs1r%2FPlnbB9HSi6%2Bo5OtIOvlUmI6lJRK2Sgdvtq8up2I7o0CJDnlbsDwuHDQFtmkm%2Bntg4bARK0V2K%2Brtm4BYCxT7kLGnyGIQ0NdtEoow9KeP6o5TsrqvWuLFq%2FDZfKeG%2FbUVN2FN8%2BHAAvN5snRpRG0PSOlT5ykHKELzuNKUFbYxG2cjgBFKBqRH6X1hzhxaD%2BEOWTHsUZTnNGNU9o0W8ztfJEB%2F3YKFF3oWibKBkhjeYhru9I%3D&pass_ticket=D%2F6Stu6xc0zyF1YXaFAx9Bwb5PivZV18xQcrVI9ZMy8ytuuFUSQIFnFVKN35BtED&wx_header=3)，如果您对超声影像分析感兴趣，亦可联系我(zhouyanfeng2020@ia.ac.cn)内推
 
@@ -61,7 +61,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 - **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已公开**）
 
 # Students
-- :star::star::star: **Actively looking for students:**（:envelope: zhouyanfeng2020@ia.ac.cn）
+- ⭐⭐⭐ **Actively looking for students:**（:envelope: zhouyanfeng2020@ia.ac.cn）
 **招生要求：**
 	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
 	- 对计算机视觉和生物医学影像分析感兴趣
