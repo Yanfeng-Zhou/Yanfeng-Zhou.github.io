@@ -1,5 +1,5 @@
 ---
-permalink: /en/about
+permalink: /en/
 title: ""
 excerpt: ""
 author_profile: true
