@@ -105,9 +105,9 @@ redirect_from:
 	
 
 # Academic Activities
-- Talk of MIGS2025 seminars
-- Reviewer of CVPR, ICCV, ECCV, BMVC, MICCAI
-- Program Committee Members of BIBM2024
+- MIGS2025研讨会的报告
+- CVPR，ICCV，ECCV，BMVC，MICCAI审稿人
+- BIBM2024程序委员会成员
 
 # Awards
 - 中国科学院大学院长奖, 2025
