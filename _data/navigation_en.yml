@@ -1,1 +1,28 @@
+# main links links
+main:
+  - title: "Biography"
+    url: "/en/#about-me"
 
+  - title: "News"
+    url: "/en/#news"
+
+  - title: "Research Interests"
+    url: "/en/#research-interests"
+
+  - title: "Experience"
+    url: "/en/#experience"
+
+  - title: "Fundings"
+    url: "/en/#fundings"
+
+  - title: "Publications"
+    url: "/en/#publications"
+
+  - title: "Students"
+    url: "/en/#students"
+
+  - title: "Academic Activities"
+    url: "/en/#academic-activities"
+    
+  - title: "Awards"
+    url: "/en/#awards"
