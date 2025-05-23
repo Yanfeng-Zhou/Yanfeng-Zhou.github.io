@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">中文主页</span>](/)
 
-Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. 于2025年在中国科学院大学获得博士学位。His research interests is computer vision and biomedical image analysis. 累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文15篇，第一作者10篇。累计申请国家发明专利5项，授权专利4项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
+Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 15 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, European Radiology, and BIBM, with 10 as the first author. He has filed 5 national invention patents and holds 4 granted patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
 
 ⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
