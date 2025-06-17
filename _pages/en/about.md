@@ -42,7 +42,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 
 # Experience
 
-- Jun. 2025 – Present **Assistant Professor**, School of Artificial Intelligence, Shenzhen University
+- Jul. 2025 – Present **Assistant Professor**, School of Artificial Intelligence, Shenzhen University
 - Sep. 2020 – Jun. 2025 **Doctor of Philosophy**, School of Artificial Intelligence, University of Chinese Academy of Sciences & Institute of Automation, Chinese Academy of Sciences
 - Sep. 2016 – Jun. 2020 **Bachelor of Engineering**, School of Information Science and Engineering, Northeastern University
 
