@@ -105,7 +105,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 	
 
 # Academic Activities
-- Talk of MIGS2025 seminars
+<!-- - Talk of MIGS2025 seminars -->
 - Reviewer of CVPR, ICCV, ECCV, BMVC, MICCAI
 - Program Committee Members of BIBM2024
 
