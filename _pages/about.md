@@ -105,7 +105,6 @@ redirect_from:
 	
 
 # Academic Activities
-- MIGS2025研讨会的报告
 - CVPR，ICCV，ECCV，BMVC，MICCAI审稿人
 - BIBM2024程序委员会成员
 
