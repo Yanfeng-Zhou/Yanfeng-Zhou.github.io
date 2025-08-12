@@ -68,7 +68,7 @@ redirect_from:
 - **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已公开**）
 
 # Students
-- ⭐⭐⭐ **积极地寻找学生:**（✉️<span style="color:blue">@szu.edu.cn</span>）
+- ⭐⭐⭐ **积极地寻找学生:**（✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>）
 
 	**招生要求：**
 	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
