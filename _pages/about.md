@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">English Version</span>](/en/)
 
-周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文15篇，第一作者10篇。累计申请国家发明专利5项，授权专利4项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
+周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文18篇，第一作者10篇。累计授权国家发明专利5项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
 
 ⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
@@ -49,7 +49,7 @@ redirect_from:
 # Fundings
 
 # Publications
-- **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]](https://) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
+- **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]](https://https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
 - **Yanfeng Zhou**, Jiaxing Huang, Chenlong Wang, Le Song, Ge Yang. XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images. *IEEE/CVF International Conference on Computer Vision (ICCV),* 2023. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_XNet_Wavelet-Based_Low_and_High_Frequency_Fusion_Networks_for_Fully-_ICCV_2023_paper.html) [[code]](https://github.com/Yanfeng-Zhou/XNet)
@@ -64,8 +64,8 @@ redirect_from:
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于确定血管形态特征的方法、装置、设备和存储介质. 中国发明专利.（**已授权**）
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于对管状物进行拉直的方法、装置、设备及存储介质. 中国发明专利.（**已授权**）
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，计算机实施的确定管状物狭窄率的方法及其相关产品. 中国发明专利.（**已授权**）
+- **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**授权**）
 - 徐贤，**周岩峰**，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，一种脑动脉定位提取方法、装置、电子设备及存储介质. 中国发明专利.（**已授权**）
-- **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已公开**）
 
 # Students
 - ⭐⭐⭐ **积极地寻找学生:**（✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>）
@@ -88,7 +88,7 @@ redirect_from:
   <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/Getonboardquickly.png" alt="Get on board quickly" style="width:20%;">
 </p>
 
-- **在读学生:**
+- **指导学生:**
   > 杨洋（2024级硕士）
 
   > 靖娴（2024级硕士）
@@ -100,8 +100,6 @@ redirect_from:
   > 知羽（2025级硕士）
 
   > 书南（2025级硕士）
-
-  > 兆雪（实习生）
 	
 
 # Academic Activities
