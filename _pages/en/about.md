@@ -21,11 +21,13 @@ redirect_from:
 
 [<span style="color:#00AA00">中文主页</span>](/)
 
-Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 15 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, European Radiology, and BIBM, with 10 as the first author. He has filed 5 national invention patents and holds 4 granted patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
+Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 18 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, European Radiology, and BIBM, with 10 as the first author. He has been granted 5 national invention patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
 
 ⭐⭐⭐I am actively recruiting students and have 2~3 Master's positions available each year. For detailed information regarding admission requirements and training plans, please refer to [here](#students).
 
+<!
 In addition, our lab director, [Dr. Dong Ni](https://bdsc.szu.edu.cn/teachers/graduate/33e63142-7b2f-4109-a38d-9d03bd6ee762), is also actively seeking [research interns, Master's and Ph.D. students, postdoctoral researchers](https://mp.weixin.qq.com/s?__biz=MzkyMjM4NzI5NQ==&mid=2247507562&idx=1&sn=660753ea70474b6f2b5094f30a9ac88d&chksm=c01c3dd157a72714db20cd71a2d1e47daf38a6530506f46d50875f0fc22ec1b21fcf8c85d9ce&sessionid=1747875280&scene=126&clicktime=1747887726&enterid=1747887726&subscene=10000&ascene=3&fasttmpl_type=0&fasttmpl_fullversion=7742223-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747887726633&devicetype=android-33&version=28003a3e&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_b537f70e38ab&countrycode=CN&exportkey=n_ChQIAhIQCLTRib%2Bl9Y%2BEhlvQKr9oLBLxAQIE97dBBAEAAAAAAGmpC4QnCFAAAAAOpnltbLcz9gKNyK89dVj03N7akA8H3iccNXns1HG5ysyeC6Mf6RTp6CoPKCNnLzjmzn7dBGuUgm%2Bcuazy7ztdwUFdXRG%2FSodRDp%2B9jSvzUpspvMy35meQqTy3uC0exwr1c7JW9QmVJ3uIJJFOMqDOATh%2Bi%2BdXBvZDGNlmJwOP9ixXnIUN%2FfVzP42isjIvFB6REHUFuyC%2F2bST0f1LNSMDiKKTVwtHNjsD8ujRHt3A2ywbQ9o6nLiK52KAbeqt4wbH549eaxiRLc0qqXJna9Wv6CcIeBuwOBS1k9Y%3D&pass_ticket=mfmpNw4NnIiu6hs7IIRKJOnaamOtYCtLGfx8fmn3S5ika7ENYwWGVjf3AnkKMUuv&wx_header=3), and [faculty members](https://mp.weixin.qq.com/s?__biz=MzkyMjM4NzI5NQ==&mid=2247507558&idx=1&sn=ff5c2cd993a4d75bca64ac21c156ab1f&chksm=c065bc2f95246049e93507d6d5f21b8818183e6de60537e126e2471ba48fff9f682115bdaa3c&sessionid=1747875280&scene=126&clicktime=1747887889&enterid=1747887889&subscene=10000&ascene=3&fasttmpl_type=0&fasttmpl_fullversion=7742223-zh_CN-zip&fasttmpl_flag=0&realreporttime=1747887889812&devicetype=android-33&version=28003a3e&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_b537f70e38ab&countrycode=CN&exportkey=n_ChQIAhIQ9ktqzXi6RNV40bu%2Bbk22xxLxAQIE97dBBAEAAAAAAKl5Gf%2BD5HEAAAAOpnltbLcz9gKNyK89dVj02JD3%2FFxunifWx3CVJLxiRvZ5BVYOUs1r%2FPlnbB9HSi6%2Bo5OtIOvlUmI6lJRK2Sgdvtq8up2I7o0CJDnlbsDwuHDQFtmkm%2Bntg4bARK0V2K%2Brtm4BYCxT7kLGnyGIQ0NdtEoow9KeP6o5TsrqvWuLFq%2FDZfKeG%2FbUVN2FN8%2BHAAvN5snRpRG0PSOlT5ykHKELzuNKUFbYxG2cjgBFKBqRH6X1hzhxaD%2BEOWTHsUZTnNGNU9o0W8ztfJEB%2F3YKFF3oWibKBkhjeYhru9I%3D&pass_ticket=D%2F6Stu6xc0zyF1YXaFAx9Bwb5PivZV18xQcrVI9ZMy8ytuuFUSQIFnFVKN35BtED&wx_header=3). If you are interested in ultrasound image analysis, feel free to contact me (✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>) for referral opportunities.
+>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/731290e70ede6d84042ef173fb53656d.gif" alt="Get on board quickly" style="width:20%;">
@@ -49,7 +51,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 # Fundings
 
 # Publications
-- **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]](https://) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
+- **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]]([https://](https://https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html)) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
 - **Yanfeng Zhou**, Jiaxing Huang, Chenlong Wang, Le Song, Ge Yang. XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images. *IEEE/CVF International Conference on Computer Vision (ICCV),* 2023. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_XNet_Wavelet-Based_Low_and_High_Frequency_Fusion_Networks_for_Fully-_ICCV_2023_paper.html) [[code]](https://github.com/Yanfeng-Zhou/XNet)
@@ -64,8 +66,9 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于确定血管形态特征的方法、装置、设备和存储介质. 中国发明专利.（**已授权**）
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于对管状物进行拉直的方法、装置、设备及存储介质. 中国发明专利.（**已授权**）
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，计算机实施的确定管状物狭窄率的方法及其相关产品. 中国发明专利.（**已授权**）
+- **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已授权**）
 - 徐贤，**周岩峰**，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，一种脑动脉定位提取方法、装置、电子设备及存储介质. 中国发明专利.（**已授权**）
-- **周岩峰**，杨戈，王辰龙，李一凡，宋乐，电镜图像分割模型训练及互作分析方法、装置和设备. 中国发明专利.（**已公开**）
+
 
 # Students
 - ⭐⭐⭐ **Actively looking for students:**（✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>）
@@ -101,8 +104,6 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
 
   > Shunan (Master 2025)
 
-  > Zhoaxue (Intern)
-	
 
 # Academic Activities
 <!-- - Talk of MIGS2025 seminars -->
