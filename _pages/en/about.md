@@ -40,7 +40,7 @@ In addition, our lab director, [Dr. Dong Ni](https://bdsc.szu.edu.cn/teachers/gr
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
 # Research Interests
-Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis
+Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardiovascular and Cerebrovascular Imaging Analysis, Cardiac Imaging Analysis, Foundation Models for Medical Imaging 
 
 # Experience
 
