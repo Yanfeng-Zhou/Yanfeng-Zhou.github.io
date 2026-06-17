@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">中文主页</span>](/)
 
-Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 18 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, European Radiology, and BIBM, with 10 as the first author. He has been granted 5 national invention patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
+Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 18 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, Bioinformatics, and European Radiology, with 10 as the first author. He has been granted 5 national invention patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
 
 ⭐⭐⭐I am actively recruiting students and have 2~3 Master's positions available each year. For detailed information regarding admission requirements and training plans, please refer to [here](#students).
 
@@ -55,7 +55,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardio
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
 - **Yanfeng Zhou**, Jiaxing Huang, Chenlong Wang, Le Song, Ge Yang. XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images. *IEEE/CVF International Conference on Computer Vision (ICCV),* 2023. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_XNet_Wavelet-Based_Low_and_High_Frequency_Fusion_Networks_for_Fully-_ICCV_2023_paper.html) [[code]](https://github.com/Yanfeng-Zhou/XNet)
-- **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF B**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
+- **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF A**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
 - **Yanfeng Zhou**, Lingrui Li, Zichen Wang, Guole Liu, Ziwen Liu, Ge Yang. XNet v2: Fewer Limtations, Better Results and Greater Universality. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM),* 2024. (**CCF B**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10822699) [[code]](https://github.com/Yanfeng-Zhou/XNetv2)
 - Xian Xu*, **Yanfeng Zhou***, Shasha Sun*, et al. Risk prediction for elderly cognitive impairment by radiomic and morphological quantification analysis based on a cerebral MRA imaging cohort. *European Radiology,* 2024. (**CAS Q2 Top**) [[paper]](https://link.springer.com/article/10.1007/s00330-024-11336-9)
 - **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC)
@@ -74,10 +74,9 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardio
 - ⭐⭐⭐ **Actively looking for students:**（✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>）
 
 	**招生要求：**
-	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
-	- 对计算机视觉和生物医学影像分析感兴趣
-	- 具备良好的英文写作和阅读能力
-	- 具备一定的Python编程能力
+	- 有科研学术追求、有清晰目标、自律、肯吃苦、肯钻研问题
+	- 对计算机视觉、生物医学影像分析、医学智能体、影像大模型感兴趣
+	- 具备良好的英文写作和阅读能力，具备一定的Python编程能力
 	- 有计算机视觉或生物医学影像分析相关科研经历者加分（毕业设计、课外实习、发表论文）
 
 	**培养方式：**
@@ -92,18 +91,9 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardio
 </p>
 
 - **Supervised Master Students:**
-  > Yangyang (Master 2024)
+  > 2024: Jingxian
 
-  > Jingxian (Master 2024)
-
-  > Xinting (Master 2025)
-
-  > Jianfeng (Master 2025)
-
-  > Zhiyu (Master 2025)
-
-  > Shunan (Master 2025)
-
+  > 2025: Shunan, Xinting, Jianfeng
 
 # Academic Activities
 <!-- - Talk of MIGS2025 seminars -->
@@ -111,6 +101,7 @@ Computer Vision and Biomedical Image Analysis, Ultrasound Image Analysis, Cardio
 - Program Committee Members of BIBM2024
 
 # Awards
+- Outstanding Doctoral Dissertation of the Chinese Academy of Sciences, 2026
 - Dean Scholarship of University of Chinese Academy of Sciences, 2025
 - Wang Shouwu Scholarship of University of Chinese Academy of Sciences, 2025
 - Dai Ruwei Second Prize Scholarship of University of Chinese Academy of Sciences, 2024
