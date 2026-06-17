@@ -88,7 +88,7 @@ redirect_from:
 
 
 # Academic Activities
-- CVPR，ICCV，ECCV，BMVC，MICCAI审稿人
+- CVPR，ICCV，ECCV，TMI，TIP，MICCAI审稿人
 - BIBM2024程序委员会成员
 
 # Awards
