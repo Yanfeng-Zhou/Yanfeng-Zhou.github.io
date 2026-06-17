@@ -86,7 +86,11 @@ redirect_from:
   <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/Getonboardquickly.png" alt="Get on board quickly" style="width:20%;">
 </p>
 
+- **指导学生**:
+	> 2024：Jingxian
 
+	> 2025：Shunan，Xinting，Jianfeng
+ 
 # Academic Activities
 - CVPR，ICCV，ECCV，TMI，TIP，MICCAI审稿人
 - BIBM2024程序委员会成员
