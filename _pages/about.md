@@ -86,25 +86,13 @@ redirect_from:
   <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/Getonboardquickly.png" alt="Get on board quickly" style="width:20%;">
 </p>
 
-- **指导学生:**
-  > 杨洋（2024级硕士）
-
-  > 靖娴（2024级硕士）
-
-  > 心婷（2025级硕士）
-
-  > 建峰（2025级硕士）
-
-  > 知羽（2025级硕士）
-
-  > 书南（2025级硕士）
-	
 
 # Academic Activities
 - CVPR，ICCV，ECCV，BMVC，MICCAI审稿人
 - BIBM2024程序委员会成员
 
 # Awards
+- 中国科学院优秀博士学位论文, 2026
 - 中国科学院大学院长奖, 2025
 - 中国科学院大学王守武奖学金（优秀奖）, 2025
 - 中国科学院大学戴汝为二等奖学金, 2024
