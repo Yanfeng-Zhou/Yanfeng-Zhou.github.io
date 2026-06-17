@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">English Version</span>](/en/)
 
-周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、BIBM等会议和期刊累计发表论文18篇，第一作者10篇。累计授权国家发明专利5项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
+周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、Bioinformatics等会议和期刊累计发表论文18篇，第一作者10篇。累计授权国家发明专利5项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
 
 ⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
@@ -39,7 +39,7 @@ redirect_from:
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
 # Research Interests
-计算机视觉与生物医学影像分析，超声影像分析，心脑血管影像分析，心脏影像分析，医学影像基础模型
+计算机视觉与生物医学影像分析，心脑血管影像分析，心脏影像分析，超声影像分析，医学影像基础模型，医学智能体
 
 # Experience
 
@@ -54,12 +54,10 @@ redirect_from:
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
 - **Yanfeng Zhou**, Jiaxing Huang, Chenlong Wang, Le Song, Ge Yang. XNet: Wavelet-Based Low and High Frequency Fusion Networks for Fully- and Semi-Supervised Semantic Segmentation of Biomedical Images. *IEEE/CVF International Conference on Computer Vision (ICCV),* 2023. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_XNet_Wavelet-Based_Low_and_High_Frequency_Fusion_Networks_for_Fully-_ICCV_2023_paper.html) [[code]](https://github.com/Yanfeng-Zhou/XNet)
-- **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF B**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
+- **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF A**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
 - **Yanfeng Zhou**, Lingrui Li, Zichen Wang, Guole Liu, Ziwen Liu, Ge Yang. XNet v2: Fewer Limtations, Better Results and Greater Universality. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM),* 2024. (**CCF B**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10822699) [[code]](https://github.com/Yanfeng-Zhou/XNetv2)
 - Xian Xu*, **Yanfeng Zhou***, Shasha Sun*, et al. Risk prediction for elderly cognitive impairment by radiomic and morphological quantification analysis based on a cerebral MRA imaging cohort. *European Radiology,* 2024. (**中科院2区Top**) [[paper]](https://link.springer.com/article/10.1007/s00330-024-11336-9)
 - **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC)
-- Jiaxing Huang, **Yanfeng Zhou**, Yanru Luo, Guole Liu, Heng Guo, Ge Yang. Representing Topological Self-Similarity Using Fractal Feature Maps for Accurate Segmentation of Tubular Structures. *European Conference on Computer Vision (ECCV),* 2024. (**CCF B**) [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-73404-5_9) [[code]](https://github.com/cbmi-group/FFM-Multi-Decoder-Network)
-- Lingrui Li, **Yanfeng Zhou**, Ge Yang. Robust Source-Free Domain Adaptation for Fundus Image Segmentation. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV),* 2024. (**CCF C**) [[paper]](https://openaccess.thecvf.com/content/WACV2024/html/Li_Robust_Source-Free_Domain_Adaptation_for_Fundus_Image_Segmentation_WACV_2024_paper.html) [[code]](https://github.com/LinGrayy/PLPB)
 
 # Patents
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于确定血管形态特征的方法、装置、设备和存储介质. 中国发明专利.（**已授权**）
@@ -72,10 +70,9 @@ redirect_from:
 - ⭐⭐⭐ **积极地寻找学生:**（✉️<span style="color:blue">zhouyanfeng@szu.edu.cn</span>）
 
 	**招生要求：**
-	- 有追求、有目标、头脑灵活、自律、活泼、肯吃苦、肯钻研问题
-	- 对计算机视觉和生物医学影像分析感兴趣
-	- 具备良好的英文写作和阅读能力
-	- 具备一定的Python编程能力
+	- 有目标、自律、肯吃苦、肯钻研问题
+	- 对计算机视觉、生物医学影像分析、医学智能体、影像大模型感兴趣
+	- 具备良好的英文写作和阅读能力，具备一定的Python编程能力
 	- 有计算机视觉或生物医学影像分析相关科研经历者加分（毕业设计、课外实习、发表论文）
 
 	**培养方式：**
