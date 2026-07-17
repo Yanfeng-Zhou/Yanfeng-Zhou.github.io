@@ -49,7 +49,7 @@ redirect_from:
 - 2016.09 – 2020.06 东北大学信息科学与工程学院，**学士**
 
 # Fundings
-- 广东省科协青年科技人才培育计划，主持，2026-2028，
+- 广东省科协青年科技人才培育计划，2026-2028，主持
 
 # Publications
 - Huanwen Liang, Yuanji Zhang, Xiliang Zhu, Yuhao Huang, Xiaoying Du, Siying Liang, Jingxian Xu, Yuhan Zhang, Changqing Sheng, Yanjun Liu, Yun Wu, Sheng Zhao, Guowei Tao, Xuedong Deng, Xinru Gao*, **Yanfeng Zhou*** , Dong Ni*. FAA-Net: Fetal abdominal anomaly diagnosis in prenatal ultrasound via LLM-enhanced multi-instance learning. *Medical Image Analysis,* 2026. (**中科院1区Top**)  [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526002707) [[code]](https://github.com/LL-AC/FAA)
