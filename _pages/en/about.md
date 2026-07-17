@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">中文主页</span>](/)
 
-Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 18 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, Bioinformatics, and European Radiology, with 10 as the first author. He has been granted 5 national invention patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
+Yanfeng Zhou, Assistant Professor and Master Supervisor, Lab of Medical UltraSound Image Computing, School of Artificial Intelligence, Shenzhen University. He received his Ph.D. degree from the University of Chinese Academy of Sciences in 2025. His research interests is computer vision and biomedical image analysis. He has published 19 papers in top-tier conferences and journals, including CVPR, ICCV, ECCV, TMI, MedIA, Bioinformatics, and European Radiology, with 11 as the first/corresponding author. He has been granted 5 national invention patents. He served as a Program Committee member for BIBM 2024 and has been a regular reviewer for conferences such as CVPR, ICCV, and ECCV. He has received the Dean Scholarship of University of Chinese Academy of Sciences and twice been awarded the National Scholarship.
 
 ⭐⭐⭐I am actively recruiting students and have 2~3 Master's positions available each year. For detailed information regarding admission requirements and training plans, please refer to [here](#students).
 
@@ -35,9 +35,10 @@ In addition, our lab director, [Dr. Dong Ni](https://bdsc.szu.edu.cn/teachers/gr
 
 
 # News
-- 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree!
+- 2026.06: One paper is accepted by MedIA. Congratulations to Huanwen!
 - 2025.05: One paper is accepted by TMI. Congratulations to Yanfeng!
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
+<!-- - 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree! -->
 
 # Research Interests
 Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascular Imaging Analysis, Cardiac Imaging Analysis, Ultrasound Image Analysis, Foundation Models for Medical Imaging, Medical Agent 
@@ -49,8 +50,11 @@ Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascula
 - Sep. 2016 – Jun. 2020 **Bachelor of Engineering**, School of Information Science and Engineering, Northeastern University
 
 # Fundings
+- 广东省科协青年科技人才培育计划，2026-2028，主持
+
 
 # Publications
+- Huanwen Liang, Yuanji Zhang, Xiliang Zhu, Yuhao Huang, Xiaoying Du, Siying Liang, Jingxian Xu, Yuhan Zhang, Changqing Sheng, Yanjun Liu, Yun Wu, Sheng Zhao, Guowei Tao, Xuedong Deng, Xinru Gao*, **Yanfeng Zhou*** , Dong Ni*. FAA-Net: Fetal abdominal anomaly diagnosis in prenatal ultrasound via LLM-enhanced multi-instance learning. *Medical Image Analysis,* 2026. (**中科院1区Top**)  [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526002707) [[code]](https://github.com/LL-AC/FAA)
 - **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]]([https://](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html)) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**CAS Q1 Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
@@ -58,7 +62,7 @@ Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascula
 - **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF A**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
 - **Yanfeng Zhou**, Lingrui Li, Zichen Wang, Guole Liu, Ziwen Liu, Ge Yang. XNet v2: Fewer Limtations, Better Results and Greater Universality. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM),* 2024. (**CCF B**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10822699) [[code]](https://github.com/Yanfeng-Zhou/XNetv2)
 - Xian Xu*, **Yanfeng Zhou***, Shasha Sun*, et al. Risk prediction for elderly cognitive impairment by radiomic and morphological quantification analysis based on a cerebral MRA imaging cohort. *European Radiology,* 2024. (**CAS Q2 Top**) [[paper]](https://link.springer.com/article/10.1007/s00330-024-11336-9)
-- **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC)
+<!-- - **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC) -->
 
 # Patents
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于确定血管形态特征的方法、装置、设备和存储介质. 中国发明专利.（**已授权**）
