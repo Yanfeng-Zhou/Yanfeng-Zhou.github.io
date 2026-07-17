@@ -21,7 +21,7 @@ redirect_from:
 
 [<span style="color:#00AA00">English Version</span>](/en/)
 
-周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、European Radiology、Bioinformatics等会议和期刊累计发表论文18篇，第一作者10篇。累计授权国家发明专利5项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
+周岩峰，深圳大学人工智能学院**医学超声影像计算实验室**，助理教授，硕士生导师。于2025年在中国科学院大学获得博士学位。研究方向是计算机视觉与生物医学影像分析。累计在CVPR、ICCV、ECCV、TMI、MedIA、European Radiology、Bioinformatics等会议和期刊累计发表论文19篇，第一/通讯作者11篇。累计授权国家发明专利5项。曾担任BIBM2024程序委员会成员，多次担任CVPR、ICCV、ECCV等会议的审稿人。曾获中国科学院大学院长奖1次，国家奖学金2次。
 
 ⭐⭐⭐我正在积极地寻找学生，每年有2~3个硕士生名额。招生要求和培养方式具体见[此处](#students)
 
@@ -35,9 +35,9 @@ redirect_from:
 
 # News
 - 2026.06: One paper is accepted by MedIA. Congratulations to Huanwen!
-<!-- - 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree! -->
 - 2025.05: One paper is accepted by TMI. Congratulations to Yanfeng!
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
+<!-- - 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree! -->
 
 # Research Interests
 计算机视觉与生物医学影像分析，心脑血管影像分析，心脏影像分析，超声影像分析，医学影像基础模型，医学智能体
@@ -51,7 +51,7 @@ redirect_from:
 # Fundings
 
 # Publications
-- Huanwen Liang, Yuanji Zhang, Xiliang Zhu, Yuhao Huang, Xiaoying Du, Siying Liang, Jingxian Xu, Yuhan Zhang, Changqing Sheng, Yanjun Liu, Yun Wu, Sheng Zhao, Guowei Tao, Xuedong Deng, Xinru Gao*, **Yanfeng Zhou*** , Dong Ni*. FAA-Net: Fetal abdominal anomaly diagnosis in prenatal ultrasound via LLM-enhanced multi-instance learning. *Medical Image Analysis* 2025. (**中科院1区Top**)  [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526002707) [[code]](https://github.com/LL-AC/FAA)
+- Huanwen Liang, Yuanji Zhang, Xiliang Zhu, Yuhao Huang, Xiaoying Du, Siying Liang, Jingxian Xu, Yuhan Zhang, Changqing Sheng, Yanjun Liu, Yun Wu, Sheng Zhao, Guowei Tao, Xuedong Deng, Xinru Gao*, **Yanfeng Zhou*** , Dong Ni*. FAA-Net: Fetal abdominal anomaly diagnosis in prenatal ultrasound via LLM-enhanced multi-instance learning. *Medical Image Analysis* 2026. (**中科院1区Top**)  [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526002707) [[code]](https://github.com/LL-AC/FAA)
 - **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
