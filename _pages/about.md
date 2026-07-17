@@ -34,7 +34,8 @@ redirect_from:
 
 
 # News
-- 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree!
+- 2026.06: One paper is accepted by MedIA. Congratulations to Huanwen!
+<!-- - 2025.06: Congratulations to Yanfeng on the completion of his doctoral degree! -->
 - 2025.05: One paper is accepted by TMI. Congratulations to Yanfeng!
 - 2025.02: One paper is accepted by CVPR 2025. Congratulations to Yanfeng!
 
@@ -50,6 +51,7 @@ redirect_from:
 # Fundings
 
 # Publications
+- Huanwen Liang, Yuanji Zhang, Xiliang Zhu, Yuhao Huang, Xiaoying Du, Siying Liang, Jingxian Xu, Yuhan Zhang, Changqing Sheng, Yanjun Liu, Yun Wu, Sheng Zhao, Guowei Tao, Xuedong Deng, Xinru Gao*, **Yanfeng Zhou*** , Dong Ni*. FAA-Net: Fetal abdominal anomaly diagnosis in prenatal ultrasound via LLM-enhanced multi-instance learning. *Medical Image Analysis* 2025. (**中科院1区Top**)  [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841526002707) [[code]](https://github.com/LL-AC/FAA)
 - **Yanfeng Zhou**, Lingrui Li, Le Lu, Minfeng Xu. nn~~W~~Net: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),* 2025. (**CCF A**) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_nnWNet_Rethinking_the_Use_of_Transformers_in_Biomedical_Image_Segmentation_CVPR_2025_paper.html) [[code]](https://github.com/Yanfeng-Zhou/nnWNet)
 - **Yanfeng Zhou**, Jiaheng Zhou, Zichen Wang, Ge Yang. SATO: Straighten Any 3D Tubular Object. *IEEE Transactions on Medical Imaging,* 2025. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/document/11007670) [[code]](https://github.com/Yanfeng-Zhou/SATO)
 - **Yanfeng Zhou**, Lingrui Li, Chenlong Wang, Le Song, Ge Yang. GobletNet: Wavelet-Based High-Frequency Fusion Network for Semantic Segmentation of Electron Microscopy Images. *IEEE Transactions on Medical Imaging,* 2024. (**中科院1区Top**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10705356) [[code]](https://github.com/Yanfeng-Zhou/GobletNet)
