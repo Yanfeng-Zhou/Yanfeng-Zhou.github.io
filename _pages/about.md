@@ -59,7 +59,7 @@ redirect_from:
 - **Yanfeng Zhou**, Liqun Zhong, Zichen Wang, Ge Yang. A Semi-Supervised Fracture-Attention Model for Segmenting Tubular Objects with Improved Topological Connectivity. *Bioinformatics,* 2025. (**CCF A**) [[paper]](https://academic.oup.com/bioinformatics/article/41/1/btaf013/7952012) [[code]](https://github.com/Yanfeng-Zhou/SSFA)
 - **Yanfeng Zhou**, Lingrui Li, Zichen Wang, Guole Liu, Ziwen Liu, Ge Yang. XNet v2: Fewer Limtations, Better Results and Greater Universality. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM),* 2024. (**CCF B**) [[paper]](https://ieeexplore.ieee.org/abstract/document/10822699) [[code]](https://github.com/Yanfeng-Zhou/XNetv2)
 - Xian Xu*, **Yanfeng Zhou***, Shasha Sun*, et al. Risk prediction for elderly cognitive impairment by radiomic and morphological quantification analysis based on a cerebral MRA imaging cohort. *European Radiology,* 2024. (**中科院2区Top**) [[paper]](https://link.springer.com/article/10.1007/s00330-024-11336-9)
-- **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC)
+<!-- - **Yanfeng Zhou**, Yiming Huang, Ge Yang. Spatial and Planar Consistency for Semi-Supervised Volumetric Medical Image Segmentation. *The 34th British Machine Vision Conference (BMVC)*, 2023. (**CCF C**) [[paper]](https://proceedings.bmvc2023.org/84/) [[code]](https://github.com/Yanfeng-Zhou/SPC) -->
 
 # Patents
 - **周岩峰**，徐贤，杨戈，曹丰，崔龙彪，郭远昊，孙沙沙，蒋嘉诚，用于确定血管形态特征的方法、装置、设备和存储介质. 中国发明专利.（**已授权**）
