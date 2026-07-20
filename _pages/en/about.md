@@ -103,7 +103,6 @@ Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascula
 - Program Committee Members of BIBM2024
 
 # Awards
-- Outstanding Doctoral Dissertation of the Chinese Academy of Sciences, 2026
 - Dean Scholarship of University of Chinese Academy of Sciences, 2025
 - Wang Shouwu Scholarship of University of Chinese Academy of Sciences, 2025
 - Dai Ruwei Second Prize Scholarship of University of Chinese Academy of Sciences, 2024
