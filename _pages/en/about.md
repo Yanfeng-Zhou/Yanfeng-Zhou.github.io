@@ -50,6 +50,8 @@ Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascula
 - Sep. 2016 – Jun. 2020 **Bachelor of Engineering**, School of Information Science and Engineering, Northeastern University
 
 # Fundings
+
+- 国家自然科学基金青年基金项目（C类），2027-2029，主持
 - 广东省科协青年科技人才培育计划，2026-2028，主持
 
 
