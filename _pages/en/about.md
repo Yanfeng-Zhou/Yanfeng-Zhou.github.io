@@ -43,7 +43,9 @@ In addition, our lab director, [Dr. Dong Ni](https://bdsc.szu.edu.cn/teachers/gr
 # Research Interests
 Computer Vision and Biomedical Image Analysis, Cardiovascular and Cerebrovascular Imaging Analysis, Cardiac Imaging Analysis, Ultrasound Image Analysis, Foundation Models for Medical Imaging, Medical Agent 
 
-<p align="center"><img src="https://github.com/Yanfeng-Zhou/Yanfeng-Zhou/blob/main/straighten_result.gif" width="70%" ></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/straighten_result.gif?raw=true" alt="Straighten visualization" style="width:70%;">
+</p>
 
 # Experience
 
