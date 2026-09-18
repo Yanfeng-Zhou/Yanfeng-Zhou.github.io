@@ -43,7 +43,7 @@ redirect_from:
 计算机视觉与生物医学影像分析，心脑血管影像分析，心脏影像分析，超声影像分析，医学影像基础模型，医学智能体
 
 <p align="center">
-	<img src="https://github.com/Yanfeng-Zhou/Yanfeng-Zhou/blob/main/straighten_result.gif" alt="Get on board quickly" style="width:70%;" >
+  <img src="https://raw.githubusercontent.com/Yanfeng-Zhou/Yanfeng-Zhou/main/straighten_result.gif?raw=true" alt="Straighten visualization" style="width:70%;">
 </p>
 
 # Experience
