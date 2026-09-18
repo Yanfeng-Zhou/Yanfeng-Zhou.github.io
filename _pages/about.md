@@ -42,6 +42,8 @@ redirect_from:
 # Research Interests
 计算机视觉与生物医学影像分析，心脑血管影像分析，心脏影像分析，超声影像分析，医学影像基础模型，医学智能体
 
+<p align="center"><img src="https://github.com/Yanfeng-Zhou/Yanfeng-Zhou/blob/main/straighten_result.gif" width="70%" ></p>
+
 # Experience
 
 - 2025.07 – 今 深圳大学人工智能学院，**助理教授**
